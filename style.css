@@ -1,0 +1,19 @@
+.travel_maindiv{
+    border: 1px solid;
+    border-color: black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+body{
+    text-align: center;
+}
+.travel_maindiv img{
+    width: 100%;
+}
+.travel_maindiv hr{
+    width: 230%;
+}
+.travel_maindiv h5,.travel_maindiv p{
+    padding-left: 20px;
+}
